@@ -1,2 +1,2 @@
-console.log("Masi School");//an error
+console.log("Masai School");
 console.log("A Transformation in Education");
