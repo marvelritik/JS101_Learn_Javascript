@@ -1,5 +1,5 @@
 let name = "Ritik Gupta";
 var fatherName = "Raju Gupta";
-var motherName = "Ani Gupta";//error
+var motherName = "Anita Gupta";
 
 console.log(motherName);
